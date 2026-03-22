@@ -5,6 +5,6 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone [https://github.com/mabusaeid01-droid/termux-pro-kit.git](https://github.com/mabusaeid01-droid/termux-pro-kit.git)
+git clone https://github.com/mabusaeid01-droid/termux-pro-kit.git
 cd termux-pro-kit
 python prokit.py
